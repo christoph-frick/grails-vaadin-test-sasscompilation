@@ -1,0 +1,7 @@
+@import '../runo/styles.scss';
+.test {
+  @include runo;
+  body {
+    background-color: cornsilk;
+  }
+}
